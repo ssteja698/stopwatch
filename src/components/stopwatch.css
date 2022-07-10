@@ -1,0 +1,22 @@
+.stopWatch {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 200px;
+}
+
+.stopWatch__timer {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+.stopWatch__buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.stopWatch__buttons__startButton {
+    margin-right: 10px;
+}
